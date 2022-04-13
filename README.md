@@ -1,4 +1,4 @@
-# Recobook - Spring Boot API REST de recomendação de livros
+# Recobook - API de recomendação de livros
 
 Link da API no heroku:
 https://recobook-web.herokuapp.com/livro
