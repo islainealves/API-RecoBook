@@ -5,10 +5,15 @@ https://recobook-web.herokuapp.com/livro
 
 ## Tecnologias usadas
 Framework Spring Boot
+
 Linguagem Java
+
 Banco de dados PostgreSQL
+
 Framework Swagger para documentação
+
 Bean Validation para fazer as validações
+
 
 ## Passo a passo para subir a api localmente:
 - Clonar o repositório:
@@ -22,6 +27,7 @@ Recomendação: IntelliJ IDEA ou Eclipse IDE
 - Documentação Swagger para fazer as requests: http://localhost:8080/swagger-ui.html
 
 API pronta, agora é só fazer as requisições http!
+
 Recomendações: Postman ou o web client (https://github.com/islainealves/ClienteRecobook.git)
 
 ## Link do client no github pages:
