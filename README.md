@@ -26,7 +26,7 @@ Recomendação: IntelliJ IDEA ou Eclipse IDE
 - Acessar pelo navegador: http://localhost:8080/livro
 - Documentação Swagger para fazer as requests: http://localhost:8080/swagger-ui.html
 
-API pronta, agora é só fazer as requisições http!
+API pronta, agora é só fazer as requisições HTTP.
 
 Recomendações: Postman ou o web client (https://github.com/islainealves/ClienteRecobook.git)
 
